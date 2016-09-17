@@ -1,1 +1,1 @@
-import Startup from '../imports/startup/server.index.js';
+import '/imports/startup/client'
