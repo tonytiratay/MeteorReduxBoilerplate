@@ -1,4 +1,4 @@
-# Redux et React
+# Redux et React Meteor Boilerplate
 
 Redux est une librairie en charge de la gestion du state d'applications simples ou complexes. Sont fonctionnement est basé sur la circulation à sens unique des données. En synthèse, une architecture Redux se compose des éléments suivants.
 
