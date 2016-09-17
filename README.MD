@@ -18,7 +18,7 @@ Le Root Reducer combine tous les autres reducers en un seul objet. Le store, ou 
 
 Ce sont des composants React à qui, grâce à la bibliothèque 'react-redux', on donne l'accès au state de l'application, ainsi que la possibilité d'émettre des actions.
 
-![Alt text](./redux-schema.png)
+![Alt text](public/img/redux-schema.png)
 
 ## Store / State
 
